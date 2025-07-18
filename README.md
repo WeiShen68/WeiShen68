@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weishen68" alt="weishen68" /></a> </p>
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently studying **Software Engineering**. <img align="right" src="https://miro.medium.com/v2/resize:fit:960/0*V8j4C31jYMpzXf1W.gif" alt="Penguin" width="25%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **REST APIs, Next.js, and Web 3 technologies**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm currently exploring **REST APIs, Next.js, and Web 3 technologies**. <br>
 - 🌱&nbsp;&nbsp;&nbsp; I’m always learning **not just how to code, but how to grow in my career and become a better developer, team player, and problem solver**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me via **weishen1168@gmail.com**. <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **I'm not just someone who codes — I'm someone who learns, reflects, and adapts**.<br>
