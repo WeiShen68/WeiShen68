@@ -91,14 +91,8 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/weishen68">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=weishen68&theme=tokyonight" alt="weishen68 streak" style="height: auto; width: auto;" />
-  </a>
-  <a href="https://github.com/weishen68">
-    <img src="https://github-readme-stats.vercel.app/api?username=weishen68&show_icons=true&locale=en&theme=tokyonight" alt="weishen68 stats" style="height: auto; width: auto;" />
-  </a>
-</div>
+<a href="https://github.com/weishen68/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weishen68&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=weishen68&theme=tokyonight" alt="weishen68" />
 
 <div align="center" >
 
