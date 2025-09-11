@@ -100,7 +100,7 @@
   <summary>More stats</summary>
   
 <a href="https://github.com/weishen68/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weishen68&layout=compact&theme=tokyonight" alt="top langs" style="height: auto; width: auto;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weishen68&show_icons=true&theme=tokyonight&locale=en" alt="weishen68" /></p>
 </a>
 
 </details>
