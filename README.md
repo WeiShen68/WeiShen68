@@ -5,12 +5,12 @@
 
 <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weishen68" alt="weishen68" /></a> </div>
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently studying **Software Engineering**. <img align="right" src="https://miro.medium.com/v2/resize:fit:960/0*V8j4C31jYMpzXf1W.gif" alt="Penguin" width="25%" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Currently pursuing a Bachelor’s Degree in **Software Engineering**. <img align="right" src="https://miro.medium.com/v2/resize:fit:960/0*V8j4C31jYMpzXf1W.gif" alt="Penguin" width="25%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm currently exploring **REST APIs, Next.js, and Web 3 technologies**. <br>
 - <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="25" />&nbsp;&nbsp; I’m always learning **not just how to code, but how to grow in my career and become a better developer, team player, and problem solver**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> &nbsp; **Right attitude, Right action** — skills come naturally. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me via **weishen1168@gmail.com**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **I'm not just someone who codes — I'm someone who learns, reflects, and adapts**.<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> &nbsp; **I'm not just someone who codes — I'm someone who learns, reflects, and adapts**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Feel free to reach me via **weishen1168@gmail.com**. <br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**I believe that with the right attitude and the right actions, skills will come naturally**.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
