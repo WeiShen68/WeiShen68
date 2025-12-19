@@ -12,6 +12,8 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Feel free to reach me via **weishen1168@gmail.com**. <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**I believe that with the right attitude and the right actions, skills will come naturally**.<br>
 
+<div align="center"> <img align="center" src="https://i0.wp.com/makanbola.com/wp-content/uploads/Lee-Zii-Jia-4-1.jpg" alt="weishen68" /> </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wei-shen-chuah-24717127a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wei shen chuah" height="30" width="40" /></a>
